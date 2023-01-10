@@ -1,0 +1,3 @@
+strncpy - http://www.cplusplus.com/reference/cstring/strncpy/
+strncat - http://www.cplusplus.com/reference/cstring/strncat/
+strncmp - http://www.cplusplus.com/reference/cstring/strncmp/
